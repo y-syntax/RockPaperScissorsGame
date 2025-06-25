@@ -33,8 +33,7 @@ When prompted, type:
 
 ## 🖼️ Screenshot
 
-![📸 Game Snippets]  
-(screenshot.png)
+![📸 Game Snippets](screenshot.png)
 
 ---
 
