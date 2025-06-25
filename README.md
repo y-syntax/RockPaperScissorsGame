@@ -33,8 +33,8 @@ When prompted, type:
 
 ## 🖼️ Screenshot
 
-> _[📸 Optional: Add a screenshot of your terminal running the game]_  
-(You can take one and upload it later by editing this file)
+> _[📸 Game Snippets]_  
+(screenshot.png)
 
 ---
 
