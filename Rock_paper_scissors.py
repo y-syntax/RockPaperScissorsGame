@@ -37,7 +37,7 @@ def play_game():
         print(f"🤖 Computer chose: {computer}")
 
         result = decide_winner(user, computer)
-        if result == 'tie':
+        if result == 'tied':
             print("⚖️ It's a tie!")
         elif result == 'user':
             print("✅ You win this round!")
